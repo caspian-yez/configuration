@@ -1,4 +1,5 @@
 Windows Registry Editor Version 5.00
 
-[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\CloudUpload]
+[-HKEY_CLASSES_ROOT\AllFileSystemObjects\shell\CloudUploadAddToSyncDisk]
+[-HKEY_CLASSES_ROOT\AllFileSystemObjects\shell\CloudUpload]
 [-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}] ;移动云盘同步盘
